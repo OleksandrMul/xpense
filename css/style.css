@@ -3144,6 +3144,9 @@ textarea.input {
   .spollers__body {
     padding-top: .75rem
   }
+  .menu-spollers__link {
+    width: 100%
+  }
   .hero__action {
     margin: 0 -.9375rem
   }
