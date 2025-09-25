@@ -2,7 +2,7 @@
 
 **Role:** Front-End Developer | Figma to HTML | Responsive Design | Animation | JavaScript Interactivity
 
-[![Watch Video Presentation](img/mockup_house_decor.webp)](https://youtu.be/U_VeakRUmYE?si=7Z0B3hQMQWi9AEDJ)
+[![Watch Video Presentation](img/mockup_xpense.webp)](https://youtu.be/X6-T9Bgtbg4)
 
 🌐 [View Live Project](https://oleksandrmul.github.io/xpense/)
 
